@@ -406,5 +406,4 @@ block.launch(
     server_port=args.port,
     share=args.share,
     inbrowser=args.inbrowser,
-    allowed_paths=["*"]
 )
